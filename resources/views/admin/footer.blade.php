@@ -43,3 +43,6 @@
     }
     // ]]>
 </script>
+{{-- my custom js --}}
+<script src="/template/js/main.js"></script>
+@yield('footer')
